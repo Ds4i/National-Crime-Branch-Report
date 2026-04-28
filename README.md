@@ -64,7 +64,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 ## 🛠 Installation
 
   **1. Clone the repository:**
-  [git clone https://github.com/themrinal/Data-Analysis-Project.git](https://github.com/Ds4i/National-Crime-Branch-Report)
+  [git clone [https://github.com/Ds4i/National-Crime-Branch-Report]
   cd Data-Analysis-Project
 
   **2. (Optional) Create a virtual environment:**
